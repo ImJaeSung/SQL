@@ -1,5 +1,5 @@
 # SQL
-2023년 9월부터 2024년 2월(expected)까지 진행된 Big Data Ananlysis Association(BDA) 학회 SQL 문법 기초반 공부 내용입니다.
+2023년 9월부터 2024년 2월(expected)까지 진행된 Big Data Ananlysis Association(BDA) 학회 SQL 문법 기초반 실습 내용입니다.
 
 ### BDA란?
 
