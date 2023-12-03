@@ -13,4 +13,4 @@ MySQL Workbench(8.0) Visual Database Designer
 https://www.instagram.com/official.bdaa/?igshid=YmMyMTA2M2Y%3D
 
 
-이론적인 내용은 https://holy-jjjae.tistory.com/category/DataBase/SQL 에 정리되어 있습니다.
+[-] 이론적인 내용은 https://holy-jjjae.tistory.com/category/DataBase/SQL 에 정리되어 있습니다.
